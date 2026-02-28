@@ -1,0 +1,10 @@
+Harvest_02_PotNr_237.csv
+Harvest_01_PotNr_179.csv
+Harvest_01_PotNr_145.csv
+Harvest_01_PotNr_80.csv
+Harvest_02_PotNr_135.csv
+Harvest_01_PotNr_256.csv
+Harvest_02_PotNr_481.csv
+Harvest_01_PotNr_373.csv
+Harvest_01_PotNr_95.csv
+Harvest_01_PotNr_463.csv
